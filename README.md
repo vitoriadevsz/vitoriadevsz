@@ -16,11 +16,14 @@
     src="https://github-readme-stats.vercel.app/api?username=vitoriadevsz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriadevsz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+<h3>Tecnologias</h3>
+
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="35">
+</a>
+
+
+
  
 
 
