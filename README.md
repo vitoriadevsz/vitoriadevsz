@@ -19,7 +19,7 @@
 <h3>Tecnologias</h3>
 
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="35">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="30">
 </a>
 
 
