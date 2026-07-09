@@ -2,7 +2,7 @@
  ##
  # 👩🏻‍💻 Elisa Vitória Neri
 
-**`Cursando desenvolvimento de sistemas  | senai`**
+
 
 
 ### 📊 Estatísticas
